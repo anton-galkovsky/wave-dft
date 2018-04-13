@@ -2,4 +2,5 @@ Autumn 2017
 
 # Wave DFT
 
-Программа считывает звук с диктофона телефона и выводит на экран график сооветствующей волны. По нажатию на экран считывание звука прекращается и для волны, принятой в последний момент, строится график, позволяющий найти её период, и выводится её спектр
+Program gets sound, recognized by phone, and draws corresponding wave on the screen. By touching screen sound recognizing stops and phone draws a graph, that helps to define wave period, for last received wave. After it program draws its spectrum
+
